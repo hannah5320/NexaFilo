@@ -1,0 +1,18 @@
+sentence-transformers
+transformers
+torch
+hdbscan
+scikit-learn
+numpy
+pandas
+joblib
+tqdm
+pytesseract
+Pillow
+opencv-python
+openai-whisper
+
+# Document extraction
+PyPDF2
+python-docx
+python-pptx
